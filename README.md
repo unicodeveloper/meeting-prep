@@ -4,11 +4,11 @@ Get instant, AI-powered briefings on any topic before your meeting. Enter a meet
 
 [Try it live here](https://meeting-prep.valyu.ai)
 
-![Intel Espresso](https://4ealzrotsszllxtz.public.blob.vercel-storage.com/first_screenshot)
+![Intel Espresso](https://4ealzrotsszllxtz.public.blob.vercel-storage.com/homepage.png)
 
-![Intel Espresso](https://4ealzrotsszllxtz.public.blob.vercel-storage.com/screenshot2)
+![Intel Espresso](https://4ealzrotsszllxtz.public.blob.vercel-storage.com/Screenshot%202026-01-08%20at%2014.06.26.png)
 
-![Intel Espresso](https://4ealzrotsszllxtz.public.blob.vercel-storage.com/third_screenshot)
+![Intel Espresso](https://4ealzrotsszllxtz.public.blob.vercel-storage.com/Screenshot%202026-01-08%20at%2014.08.11.png)
 
 ## Features
 
